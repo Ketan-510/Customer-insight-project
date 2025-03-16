@@ -1,0 +1,19 @@
+Project :
+
+Customer Purchase Pattern Analysis Scenario: The business wants to optimize its inventory by understanding which products are purchased frequently by different customer demographics.
+Problem Statement: Finding insights into customer purchase trends to improve stock management and targeted marketing.
+
+Questions to Solve:
+
+1.	Which age group makes the most purchases?
+
+2.	What is the most popular product category for different age groups?
+
+3.	Which gender has the highest purchase count on average?
+
+4.	Find customers who made more than 20 purchases and their common product category.
+
+5.	Create a bar chart of product categories vs. total purchases.
+
+6.	Analyze seasonal variations in purchase count if applicable.
+__________________________________________________________________________________________________
